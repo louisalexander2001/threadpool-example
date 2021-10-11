@@ -17,3 +17,4 @@ public class Job implements Runnable {
   }
 
 }
+//some comments to the program example
